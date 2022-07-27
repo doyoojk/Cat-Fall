@@ -1,4 +1,4 @@
-#"KITTY FALL" Game
+"KITTY FALL" Game
 By. Jamie Kim
 How to play
     Kitty is a simple cat. All she needs is her fish and her warm basket. Use your arrow keys to guide falling Kitty back into her basket.
@@ -10,3 +10,5 @@ RIGHT = Move right
 DOWN = Speed up player
 BACKSPACE = Play Again!
 SELECT = Restart
+
+![](https://github.com/doyoojk/Cat-Fall/blob/main/images/catFallEx.gif)
